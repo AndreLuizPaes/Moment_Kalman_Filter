@@ -6,4 +6,4 @@ de Lima, A. L. P., & Li, J. S. (2024). A moment-based Kalman filtering approach 
 
 The folders are organized as the following:
 
-Aircraft - Related to the example of an aircraft model, detailed in the aforementioned paper.
+Aircraft_model - Related to the example of an aircraft model, detailed in the aforementioned paper.
